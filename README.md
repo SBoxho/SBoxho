@@ -1,5 +1,3 @@
-# Sébastien Boxho
-
 Founder of **1Strategist**, an AI consulting and product studio based in Luxembourg.
 
 I work on practical AI systems, data pipelines, explainable machine learning, financial forecasting research, and decision-support dashboards. My focus is not only on building models, but on making their outputs understandable, usable, and production-ready.
@@ -11,8 +9,6 @@ I work on practical AI systems, data pipelines, explainable machine learning, fi
 - Machine learning pipelines for time-series and financial data
 - Forecasting dashboards and decision-support tools
 - Data engineering, feature pipelines, model evaluation, and deployment
-
-## Projects
 
 ### 1Strategist
 
