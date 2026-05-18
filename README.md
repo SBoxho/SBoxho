@@ -20,7 +20,7 @@ I work on practical AI systems, data pipelines, explainable machine learning, fi
 
 The focus is on practical advisory, process analysis, AI opportunity mapping, and useful implementation — without overcomplicating the solution.
 
-Website: https://1strategist.com
+Website: https://1strategist.eu
 
 ### 1Strat.ai
 
@@ -59,6 +59,5 @@ My work combines:
 
 ## Contact
 
-- 1Strategist: https://1strategist.com
-- 1Strat.ai: https://1strat.ai
-- LinkedIn: [Add your LinkedIn URL here]
+- sebastien.boxho@1strategist.eu
+- LinkedIn: www.linkedin.com/in/sebastien-boxho
