@@ -1,59 +1,32 @@
 Founder of **1Strategist**, an AI consulting and product studio based in Luxembourg.
 
-I work on practical AI systems, data pipelines, explainable machine learning, financial forecasting research, and decision-support dashboards. My focus is not only on building models, but on making their outputs understandable, usable, and production-ready.
+I build practical AI systems: data pipelines, explainable machine learning, financial forecasting, and decision-support dashboards. My focus is not just building models, but making their outputs understandable, usable, and production-ready.
 
-## What I work on
+## What I do
 
 - Practical AI consulting for SMEs
-- Explainable AI and model transparency
+- Explainable AI (XAI) and model transparency
 - Machine learning pipelines for time-series and financial data
-- Forecasting dashboards and decision-support tools
-- Data engineering, feature pipelines, model evaluation, and deployment
+- Forecasting and decision-support dashboards
+- Data engineering, model evaluation, and deployment
 
-### 1Strategist
+## Projects
 
-**1Strategist** helps small and medium-sized companies understand where AI can realistically create value in their workflows.
+**[1Strategist](https://1strategist.eu)** — AI consulting and product studio that helps SMEs find where AI creates real value, then builds it.
 
-The focus is on practical advisory, process analysis, AI opportunity mapping, and useful implementation — without overcomplicating the solution.
+**[1Strat.ai](https://1strat.ai)** — in-house explainable (XAI) product for crypto market forecasts. Combines market data, ML models, confidence levels, and explainable drivers as a decision-support tool (not financial advice).
 
-Website: https://1strategist.eu
+**[LëtzScan](https://letzscan.pages.dev/)** — interactive dashboard that unifies Luxembourg's open data (housing, mobility, environment, live civic feeds) on one map, with sourced, plain-language insights.
 
-### 1Strat.ai
+**[Glass-Box World Cup Predictor](https://glass-box-world-cup-predictor.streamlit.app/)** — calibrated, explainable model that forecasts match outcomes and simulates the tournament, with SHAP reasoning behind every probability.
 
-**1Strat.ai** is an in-house explainable XAI product focused on explainable crypto market forecasts.
+**[Master's Thesis with the ECB](https://github.com/lalvarezpoli/DSDM_Thesis)** — data science thesis (DSDM) conducted in collaboration with the European Central Bank.
 
-It combines market data, machine learning models, confidence levels, historical context, and explainable drivers to help users better understand short-term market conditions. It is designed as a decision-support tool, not as financial advice or automated trading signals.
+## Tech
 
-Website: https://1strat.ai
-
-## Technical interests
-
-- Python
-- Machine learning
-- Explainable AI / XAI
-- Time-series forecasting
-- Financial data pipelines
-- Feature engineering
-- Model evaluation
-- Dashboard development
-- Docker and deployment workflows
-- Vue.js / frontend product interfaces
-
-## Current focus
-
-I am currently developing AI-powered tools that make complex data easier to understand, especially in financial and business decision-support contexts.
-
-My work combines:
-
-- data collection and preprocessing
-- feature engineering
-- model training and evaluation
-- explainability
-- interface design
-- production deployment
-- monitoring and iteration
+Python · scikit-learn · XGBoost · PyTorch · SHAP · pandas · time-series forecasting · feature engineering · model evaluation · Docker · Vue.js / React · dashboards · Cloudflare / Firebase
 
 ## Contact
 
 - sebastien.boxho@1strategist.eu
-- LinkedIn: www.linkedin.com/in/sebastien-boxho
+- LinkedIn: [sebastien-boxho](https://www.linkedin.com/in/sebastien-boxho)
